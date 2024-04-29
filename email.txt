@@ -1,0 +1,19 @@
+MIME-Version: 1.0
+From: razvan <admin@efscaph.com>
+To: razvan4u@yahoo.com
+Subject: test
+Date: Mon, 22 Apr 2024 18:39:08 +0300
+Message-ID: <vTXL3FP@KR0.bs.64.ulzawb.830>
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+<!doctype html>
+<html>
+<head> 
+</head> 
+<body> 
+<div style="width: 600px; margin: auto;">test
+</div> 
+</body>
+</html>

@@ -1,0 +1,27 @@
+MIME-Version: 1.0
+From: razvan <admin@efscaph.com>
+To: razvan_4u16@yahoo.com
+Subject: test
+Date: Mon, 22 Apr 2024 18:39:08 +0300
+Message-ID: <vTXL3FP@KR0.bs.64.ulzawb.830>
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=efscaph.com;
+ i=@efscaph.com; q=dns/txt; s=oyquhdrsks; t=1714374911; h=mime-version
+ : from : to : subject : date : message-id : content-type :
+ content-transfer-encoding;
+ bh=54Cl4xeEy/FYw5vySP/gWgB17/CPNXPfzTCI7IUgMy0=;
+ b=CVG1Sa3w3yF0T19gxz2JZheNhJO71LKodAk/3UFcxOEPlTeuENUIAdkKttJX1qVIesS8L
+ DsCdY4GYfGMC13lqHmPs0N1H0rIVhOMhU6oKjsUUASRHNw+CG5Dp1aZtKVBnxEa+px2yu5B
+ JsQGCAoCXbkSbl3Sbtp0wgTfay+NhJU=
+
+
+<!doctype html>
+<html>
+<head> 
+</head> 
+<body> 
+<div style="width: 600px; margin: auto;">test
+</div> 
+</body>
+</html>
